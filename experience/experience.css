@@ -1,0 +1,280 @@
+body {
+    background-color: #FF1493;
+}
+.topClouds {
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: space-evenly;
+    margin-left: 5%;
+    overflow: hidden;
+}
+#cloud{
+    width:60%;
+}
+#topLink1{
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 51%;
+    margin-top: 3%;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+}
+#topLink2{
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    margin-left: -12%;
+    margin-top: 3%;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+}
+#topLink3{
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    margin-left: -74%;
+    margin-top: 3%;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+}
+.erfarenhetRuta{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+
+}
+#erfarenhet{
+    display: flex;
+    justify-content: center;
+    font-size: 600%;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+}
+#arbeten{
+    display: flex;
+    position: absolute;
+    margin-left: 47%;
+    margin-top: 12%;
+    font-size: 200%;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+}
+.workHeaderCloudRuta{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin-top: 5%;
+}
+#workHeaderCloud{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+
+}
+.workInformationClouds{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-left: 10%;
+    align-content: space-around;
+}
+#workInformationClouds1{
+    width: 55%;
+}
+#workInformationClouds2{
+    width: 55%;
+}
+
+#workInformationClouds3{
+    width: 55%;
+}
+#workInformationClouds4{
+    width: 55%;
+}
+#hobbys{
+    display: flex;
+    position: absolute;
+    margin-left: 47%;
+    margin-top: 12%;
+    font-size: 200%;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+    
+}
+.hobbyHeaderCloudRuta{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    margin-top: 5%;
+}
+#hoppyHeaderCloud{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
+.hobbyInformationClouds{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-left: 10%;
+    align-content: space-around;
+}
+.hobbyInformationClouds{
+    display: flex;
+}
+#hobbyInformationClouds1{
+    width: 55%;
+}
+#hobbyInformationClouds2{
+    width: 55%;
+}
+#hobbyInformationClouds3{
+    width: 55%;
+}
+#hobbyInformationClouds4{
+    width: 55%;
+}
+.textThing1{
+    position: absolute;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+    font-size: 40%;
+}
+#företag1{
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 25px;
+}
+#företag2{
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 175px;
+
+}
+#företag3{
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 25px;
+}
+#företag4{
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 175px;
+}
+#jobb1 {
+    position: absolute;
+    margin-left: 295px;
+    margin-top: 50px;
+    
+}
+#jobb2 {
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 200px;
+}
+#jobb3 {
+    position: absolute;
+    margin-left: 920px;
+    margin-top: 50px;
+}
+#jobb4 {
+    position: absolute;
+    margin-left: 920px;
+    margin-top: 200px;
+}
+#date1 {
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 75px;
+    
+}
+#date2 {
+
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 225px;
+}
+#date3 {
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 75px;
+}
+#date4 {
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 225px;
+}
+.textThing2{
+    position: absolute;
+    font-family: 'Segoe UI', regular;
+    font-weight: normal;
+    font-size: 40%;
+}
+#hobby1{
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 25px;
+}
+#hobby2{
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 175px;
+
+}
+#hobby3{
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 25px;
+}
+#hobby4{
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 175px;
+}
+#proficency1 {
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 50px;
+    
+}
+#proficency2 {
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 200px;
+}
+#proficency3 {
+    position: absolute;
+    margin-left: 910px;
+    margin-top: 50px;
+}
+#proficency4 {
+    position: absolute;
+    margin-left: 910px;
+    margin-top: 200px;
+}
+#date21 {
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 75px;
+    
+}
+#date22 {
+
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 225px;
+}
+#date23 {
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 75px;
+}
+#date24 {
+    position: absolute;
+    margin-left: 915px;
+    margin-top: 225px;
+}
